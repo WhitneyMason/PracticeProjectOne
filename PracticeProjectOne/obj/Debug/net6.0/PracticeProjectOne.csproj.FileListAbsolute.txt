@@ -1,0 +1,15 @@
+/Users/whitneymason/Projects/PracticeProjectOne/PracticeProjectOne/bin/Debug/net6.0/PracticeProjectOne
+/Users/whitneymason/Projects/PracticeProjectOne/PracticeProjectOne/bin/Debug/net6.0/PracticeProjectOne.deps.json
+/Users/whitneymason/Projects/PracticeProjectOne/PracticeProjectOne/bin/Debug/net6.0/PracticeProjectOne.runtimeconfig.json
+/Users/whitneymason/Projects/PracticeProjectOne/PracticeProjectOne/bin/Debug/net6.0/PracticeProjectOne.dll
+/Users/whitneymason/Projects/PracticeProjectOne/PracticeProjectOne/bin/Debug/net6.0/PracticeProjectOne.pdb
+/Users/whitneymason/Projects/PracticeProjectOne/PracticeProjectOne/obj/Debug/net6.0/PracticeProjectOne.csproj.AssemblyReference.cache
+/Users/whitneymason/Projects/PracticeProjectOne/PracticeProjectOne/obj/Debug/net6.0/PracticeProjectOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/whitneymason/Projects/PracticeProjectOne/PracticeProjectOne/obj/Debug/net6.0/PracticeProjectOne.AssemblyInfoInputs.cache
+/Users/whitneymason/Projects/PracticeProjectOne/PracticeProjectOne/obj/Debug/net6.0/PracticeProjectOne.AssemblyInfo.cs
+/Users/whitneymason/Projects/PracticeProjectOne/PracticeProjectOne/obj/Debug/net6.0/PracticeProjectOne.csproj.CoreCompileInputs.cache
+/Users/whitneymason/Projects/PracticeProjectOne/PracticeProjectOne/obj/Debug/net6.0/PracticeProjectOne.dll
+/Users/whitneymason/Projects/PracticeProjectOne/PracticeProjectOne/obj/Debug/net6.0/refint/PracticeProjectOne.dll
+/Users/whitneymason/Projects/PracticeProjectOne/PracticeProjectOne/obj/Debug/net6.0/PracticeProjectOne.pdb
+/Users/whitneymason/Projects/PracticeProjectOne/PracticeProjectOne/obj/Debug/net6.0/PracticeProjectOne.genruntimeconfig.cache
+/Users/whitneymason/Projects/PracticeProjectOne/PracticeProjectOne/obj/Debug/net6.0/ref/PracticeProjectOne.dll
